@@ -1,0 +1,19 @@
+{
+  "name": "node-js-respository",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js localhost 8080"
+  },
+  "dependencies": {
+    "axios": "0.26.1",
+    "express": "4.16.4",
+    "mongoose": "6.2.10",
+    "xml-js": "1.6.11"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
